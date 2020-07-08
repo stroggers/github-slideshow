@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Wip da wappa, da wobbedy wippa, aha awight!"
 Use the left arrow to go back!
